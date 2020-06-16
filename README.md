@@ -15,7 +15,7 @@ Game Guiedz is an just application name you can name it any thing
 ![Alt text](https://github.com/shankarlohith/GameGuiedz-WebApplication/blob/master/img/signup.png)
 # Creating Guied
 ![Alt text](https://github.com/shankarlohith/GameGuiedz-WebApplication/blob/master/img/createing%20Guid.png)
-# Content Page
-![Alt text](https://github.com/shankarlohith/GameGuiedz-WebApplication/blob/master/img/content-page%20(2).png)
 # Content Information
+![Alt text](https://github.com/shankarlohith/GameGuiedz-WebApplication/blob/master/img/content-page%20(2).png)
+# Content Page
 ![Alt text](https://github.com/shankarlohith/GameGuiedz-WebApplication/blob/master/img/content-info.png)

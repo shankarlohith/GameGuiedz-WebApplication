@@ -8,4 +8,5 @@ Game Guiedz is an just application name you can name it any thing
 * only admins can add the content in the site.
 * The concept of ultra admin is only one who operates backend can manipulate and delete the items or content in the database.
 
+# SnapSHots
 ![Alt text](https://github.com/shankarlohith/GameGuiedz-WebApplication/blob/master/img/login.png)
